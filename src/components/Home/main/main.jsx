@@ -2,7 +2,6 @@ import React from 'react';
 import styles from './main.module.css';
 import photo from "../../../assets/Ellipse 1.png";
 import icon from "../../../assets/ghost.png";
-import { Link } from 'react-scroll';
 import gith from '../../../assets/github.png';
 
 import discord from '../../../assets/discord.png';
