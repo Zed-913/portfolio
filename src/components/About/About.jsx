@@ -7,7 +7,9 @@ import { faReact } from '@fortawesome/free-brands-svg-icons';
 
 const About = () => {
     return (
+        <div className="container">
         <h1 className="wqait">Still Working On It </h1>
+        </div>
     )
 }
 
