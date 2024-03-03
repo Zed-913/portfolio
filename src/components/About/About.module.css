@@ -1,3 +1,25 @@
 .wqait{
-    padding-top  : 1100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:400px;
+
+
+    border-right:5px solid #000000;;
+    width:100%;
+    white-space:nowrap;
+    overflow:hidden;
+    animation:
+        typing 2s steps(15),
+        cursor 0.4s step-end infinite alternate;
+    
+}
+
+@keyframes cursor{
+    50% {border-color: transparent }
+}
+
+
+@keyframes typing{
+    from {width: 0}
 }

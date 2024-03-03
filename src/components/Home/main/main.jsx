@@ -38,7 +38,7 @@ const Main = () => {
 
             <div className="haw2">
                 <img src={discord} alt="Discord Logo" className="LOGOS"/>
-                <h1 className="ele">Discord</h1>
+                <div className="ele">Discord</div>
 
             </div>
             </div>
